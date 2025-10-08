@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 Proyecto colaborativo de ASSIR
 Modificación de Alumno B
-me llammo elillo
-=======
+me llammo elil
 proyecto colaborativo asir
->>>>>>> 019f1bf1dc41c218a185ca57c58bd88ddeb7408a
+
+Modificacion del Alumno A Roberto
+
